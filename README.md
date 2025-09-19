@@ -1,4 +1,4 @@
-# NASA-Space-Project-
+# NASA-Space-Project
 Proyecto NASA SPACE Embiggen Your Eyes!
 📜 Antecedentes
 Las misiones de la NASA capturan imágenes del universo con una resolución cada vez mayor. Una foto de 10 megapíxeles de un teléfono no es nada en comparación con las imágenes de 10 gigapíxeles del espacio o los conjuntos de datos visuales de 10 terapíxeles disponibles. Explorar esta cantidad de información es un desafío, ya que las herramientas actuales no nos permiten asimilarla toda de una vez.
